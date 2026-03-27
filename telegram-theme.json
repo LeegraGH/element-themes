@@ -14,19 +14,53 @@
     "timeline-background-color": "#19222b",
     "timeline-text-color": "#FFFFFF",
     "timeline-text-secondary-color": "#8E9BAB",
-    "timeline-highlights-color": "#293A4C"
+    "timeline-highlights-color": "#293A4C",
+    "username-colors": [
+      "#FF5E5E",
+      "#FF9A3C",
+      "#B266FF",
+      "#46DB62",
+      "#42E2D6",
+      "#51ADFF",
+      "#FF5EE2",
+      "#FFCE38"
+    ],
+    "avatar-background-colors": [
+      "#D84242",
+      "#D87B2E",
+      "#8B44D8",
+      "#33B04A",
+      "#2FB2A8",
+      "#3E8FF2",
+      "#D842BD",
+      "#D8A620"
+    ]
   },
   "compound": {
     "--cpd-color-theme-bg": "#0E1621",
     "--cpd-color-bg-canvas-default": "#0E1621",
-    "--cpd-color-bg-subtle-secondary": "#1D2733",
-    "--cpd-color-bg-subtle-primary": "#293A4C",
-    "--cpd-color-bg-action-primary-rest": "#3E6B94",
+    "--cpd-color-bg-canvas-transparent": "transparent",
+    "--cpd-color-bg-subtle-secondary": "#17212B",
+    "--cpd-color-bg-subtle-primary": "#242F3D",
+    "--cpd-color-bg-action-primary-rest": "#3E8FF2",
+    "--cpd-color-bg-action-primary-hovered": "#5CB6FF",
+    "--cpd-color-bg-action-primary-pressed": "#2A78D1",
+    "--cpd-color-bg-action-secondary-rest": "#17212B",
+    "--cpd-color-bg-action-secondary-hovered": "#242F3D",
+    "--cpd-color-bg-action-secondary-pressed": "#293A4C",
     "--cpd-color-text-primary": "#FFFFFF",
-    "--cpd-color-text-secondary": "#8E9BAB",
-    "--cpd-color-text-action-accent": "#3E6B94",
+    "--cpd-color-text-secondary": "#7F91A4",
+    "--cpd-color-text-placeholder": "#5A6A7C",
+    "--cpd-color-text-action-accent": "#3E8FF2",
+    "--cpd-color-text-action-primary": "#FFFFFF",
+    "--cpd-color-text-critical-primary": "#E91E63",
     "--cpd-color-icon-primary": "#FFFFFF",
-    "--cpd-color-icon-secondary": "#8E9BAB",
-    "--cpd-color-icon-accent-tertiary": "#3E6B94"
+    "--cpd-color-icon-secondary": "#7F91A4",
+    "--cpd-color-icon-tertiary": "#5A6A7C",
+    "--cpd-color-icon-accent-tertiary": "#3E8FF2",
+    "--cpd-color-icon-critical-primary": "#E91E63",
+    "--cpd-color-border-interactive-primary": "#242F3D",
+    "--cpd-color-border-interactive-secondary": "#101921",
+    "--cpd-color-border-interactive-hovered": "#3E8FF2"
   }
 }
