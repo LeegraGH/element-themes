@@ -1,0 +1,22 @@
+{
+  "name": "Telegram Night Accent",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#4a8ebd",
+    "primary-color": "#ffffff",
+    "warning-color": "#e05b5b",
+    "sidebar-color": "#1d2733",
+    "roomlist-background-color": "#1d2733",
+    "roomlist-text-color": "#ffffff",
+    "roomlist-text-secondary-color": "#7f91a4",
+    "roomlist-highlights-color": "#366d9b",
+    "roomlist-separator-color": "#101921",
+    "timeline-background-color": "#0e1621",
+    "timeline-text-color": "#ffffff",
+    "secondary-content": "#7f91a4",
+    "tertiary-content": "#677b8f",
+    "timeline-text-secondary-color": "#7f91a4",
+    "timeline-highlights-color": "#1c2a38",
+    "reaction-row-button-selected-bg-color": "#4a8ebd"
+  }
+}
