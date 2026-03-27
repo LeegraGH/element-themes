@@ -61,6 +61,19 @@
     "--cpd-color-icon-critical-primary": "#E91E63",
     "--cpd-color-border-interactive-primary": "#242F3D",
     "--cpd-color-border-interactive-secondary": "#101921",
-    "--cpd-color-border-interactive-hovered": "#3E8FF2"
+    "--cpd-color-border-interactive-hovered": "#3E8FF2",
+    "--cpd-color-gradient-subtle-stop1": "#242F3D",
+    "--cpd-color-gradient-subtle-stop2": "#1D2733",
+    "--cpd-color-gradient-subtle-stop3": "#17212B",
+    "--cpd-color-gradient-subtle-stop4": "#101921",
+    "--cpd-color-gradient-subtle-stop5": "#0E1621",
+    "--cpd-color-gradient-subtle-stop6": "#0E1621",
+    "--cpd-color-gradient-subtle-linear": "#242F3D",
+    "--cpd-color-gradient-info-stop1": "#3E8FF233",
+    "--cpd-color-gradient-info-stop2": "#3E8FF200",
+    "--cpd-color-gradient-info-linear": "#3E8FF233",
+    "--cpd-color-gradient-critical-stop1": "#E91E6333",
+    "--cpd-color-gradient-critical-stop2": "#E91E6300",
+    "--cpd-color-gradient-critical-linear": "#E91E6333"
   }
 }
