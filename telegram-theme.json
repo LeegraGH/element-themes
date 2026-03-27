@@ -1,22 +1,57 @@
 {
-  "name": "Telegram Night Accent",
+  "name": "Telegram Theme",
   "is_dark": true,
   "colors": {
     "accent-color": "#4a8ebd",
+    "accent": "#4a8ebd",
     "primary-color": "#ffffff",
     "warning-color": "#e05b5b",
+    "alert": "#e05b5b",
+
     "sidebar-color": "#1d2733",
     "roomlist-background-color": "#1d2733",
     "roomlist-text-color": "#ffffff",
     "roomlist-text-secondary-color": "#7f91a4",
-    "roomlist-highlights-color": "#366d9b",
+    "roomlist-highlights-color": "#293a4c",
     "roomlist-separator-color": "#101921",
+
     "timeline-background-color": "#0e1621",
     "timeline-text-color": "#ffffff",
     "secondary-content": "#7f91a4",
     "tertiary-content": "#677b8f",
     "timeline-text-secondary-color": "#7f91a4",
     "timeline-highlights-color": "#1c2a38",
-    "reaction-row-button-selected-bg-color": "#4a8ebd"
+
+    "reaction-row-button-selected-bg-color": "#2b5278",
+    "menu-selected-color": "#4a8ebd",
+    "focus-bg-color": "#2b5278",
+    "room-highlight-color": "#293a4c",
+    "other-user-pill-bg-color": "#18222d",
+    "togglesw-off-color": "#7f91a4"
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#0e1621",
+    "--cpd-color-bg-canvas-default": "#1d2733",
+    "--cpd-color-bg-subtle-secondary": "#1d2733",
+    "--cpd-color-bg-subtle-primary": "#293a4c",
+    "--cpd-color-bg-action-primary-rest": "#4a8ebd",
+    "--cpd-color-bg-action-secondary-rest": "#1d2733",
+    "--cpd-color-bg-critical-primary": "#e05b5b",
+    "--cpd-color-bg-critical-subtle": "#5c2a2a",
+    "--cpd-color-bg-critical-hovered": "#ef5350",
+    "--cpd-color-bg-accent-rest": "#4a8ebd",
+    "--cpd-color-text-primary": "#ffffff",
+    "--cpd-color-text-secondary": "#7f91a4",
+    "--cpd-color-text-action-accent": "#4a8ebd",
+    "--cpd-color-text-critical-primary": "#e05b5b",
+    "--cpd-color-text-success-primary": "#50a850",
+    "--cpd-color-icon-primary": "#ffffff",
+    "--cpd-color-icon-secondary": "#7f91a4",
+    "--cpd-color-icon-tertiary": "#677b8f",
+    "--cpd-color-icon-accent-tertiary": "#4a8ebd",
+    "--cpd-color-border-interactive-primary": "#364553",
+    "--cpd-color-border-interactive-secondary": "#101921",
+    "--cpd-color-border-critical-primary": "#e05b5b",
+    "--cpd-color-border-success-subtle": "#50a850"
   }
 }
