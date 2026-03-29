@@ -1,0 +1,32 @@
+{
+  "name": "Telegram Theme",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#24303f",
+    "accent": "#24303f",
+    "primary-color": "#24303f",
+    "warning-color": "#de6560",
+    "alert": "#de6560",
+
+    "sidebar-color": "#131415",
+    "roomlist-background-color": "#1a222c",
+    "roomlist-text-color": "#FFFFFF",
+    "roomlist-text-secondary-color": "#b4c2d3",
+    "roomlist-highlights-color": "#486993",
+    "roomlist-separator-color": "#24303f",
+
+    "timeline-background-color": "#1a222c",
+    "timeline-text-color": "#FFFFFF",
+    "secondary-content": "#55a4f8",
+    "tertiary-content": "#55a4f8",
+    "timeline-text-secondary-color": "#b4c2d3",
+    "timeline-highlights-color": "#486993",
+
+    "reaction-row-button-selected-bg-color": "#293c51",
+    "menu-selected-color": "#353c44",
+    "focus-bg-color": "#486993",
+    "room-highlight-color": "#55a4f8",
+    "other-user-pill-bg-color": "#486993",
+    "togglesw-off-color": "#24303f"
+  }
+}
